@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-prectis-simple/static/css/main.a311e584.css",
+    "main.js": "/redux-prectis-simple/static/js/main.e8c66bf2.js",
+    "index.html": "/redux-prectis-simple/index.html",
+    "main.a311e584.css.map": "/redux-prectis-simple/static/css/main.a311e584.css.map",
+    "main.e8c66bf2.js.map": "/redux-prectis-simple/static/js/main.e8c66bf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a311e584.css",
+    "static/js/main.e8c66bf2.js"
+  ]
+}
